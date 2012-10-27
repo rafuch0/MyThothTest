@@ -1,0 +1,15 @@
+body {
+	background-color: #f1f1f1;
+	margin: 0 auto;
+	color: #fff;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background-color: #1f1f1f;
+}
+
+h1 {
+	padding: 30px;
+}
